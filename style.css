@@ -1,0 +1,20 @@
+.box{
+    width: 100wh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.boxes{
+    width: 400px;
+    padding: 10px;
+    line-height: 25px;
+    
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif ;
+}
+h1,h4{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
