@@ -12,9 +12,19 @@
 
 }
 body{
-    font-family: 'Times New Roman', Times, serif ;
+    font-family:Verdana, Geneva, Tahoma, serif ;
+  
 }
-h1,h4{
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+h1,h4,h3{
+  
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: lighter;
+    
+}
+p{
+    font-size: 13.5px;
+}
+img{
+    width: 200px;
+    height: auto;
 }
